@@ -2,10 +2,10 @@
 
 ## 个人介绍
 
-- <font color=Black>西安电子科技大学**电子信息工程**大二学生 :wink:</font>
-- 对**机器学习**以及**计算机视觉**十分感兴趣 :smile:
-- 喜欢写代码胜过画电路 :laughing:
-- 邮箱: ```albert-wuxs@outlook.com``` :smirk:
+- <font color=Black>西安电子科技大学<b>电子信息工程<b>大二学生</font>
+- <font color=Black>对<b>机器学习<b>以及<b>计算机视觉<b>十分感兴趣</font>
+- <font color=Black>喜欢<b>写代码<b>胜过画电路</font>
+- <font color=Black>邮箱: `albert-wuxs@outlook.com`</font>
 
 [1234666](/test/tttyy.md)
 ### 三级标题 改动测试
