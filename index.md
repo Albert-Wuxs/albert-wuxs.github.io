@@ -1,5 +1,10 @@
-# unnamed blog
-## 123这是一个尚未完成的GitHub博客......
+# Albert-Wuxs @ XDU
+
+## 个人介绍
+
+- 吴小帅
+- 123
+:wink:Follow me on Github
 
 [1234666](/test/tttyy.md)
 ### 三级标题 改动测试
