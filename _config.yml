@@ -1,1 +1,6 @@
 theme: jekyll-theme-cayman
+codeblock:
+  copy_button:
+    enable: true
+    show_result: true
+    style: mac
