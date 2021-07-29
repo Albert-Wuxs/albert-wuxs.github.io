@@ -2,7 +2,7 @@
 
 ## 个人介绍
 
-- 西安电子科技大学**电子信息工程**大二学生 :wink:
+- <font color=Black>西安电子科技大学**电子信息工程**大二学生 :wink:</font>
 - 对**机器学习**以及**计算机视觉**十分感兴趣 :smile:
 - 喜欢写代码胜过画电路 :laughing:
 - 邮箱: ```albert-wuxs@outlook.com``` :smirk:
