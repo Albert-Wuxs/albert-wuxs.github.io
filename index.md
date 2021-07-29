@@ -1,10 +1,11 @@
-# Albert-Wuxs @ XDU
+# 吴小帅 @ XDU
 
 ## 个人介绍
 
-- 吴小帅
-- 123
-:wink:Follow me on Github
+- 西安电子科技大学**电子信息工程**大二学生 :wink:
+- 对**机器学习**以及**计算机视觉**十分感兴趣 :smile:
+- 喜欢写代码胜过画电路 :laughing:
+- 邮箱: ```albert-wuxs@outlook.com``` :smirk:
 
 [1234666](/test/tttyy.md)
 ### 三级标题 改动测试
