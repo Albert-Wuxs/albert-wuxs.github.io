@@ -1,5 +1,8 @@
 ## 这是一个尚未完成的GitHub博客......
 
+```python
+print('Hello world')
+```
 You can use the [editor on GitHub](https://github.com/Albert-Wuxs/albert-wuxs.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
