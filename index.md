@@ -1,6 +1,7 @@
 # 老师好我是吴同学
 ## 123这是一个尚未完成的GitHub博客......
 
+[1234666](/test/tttyy.md)
 ### 三级标题 改动测试
 ```python
 print('Hello world')
