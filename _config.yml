@@ -1,6 +1,3 @@
 theme: jekyll-theme-cayman
-codeblock:
-  copy_button:
-    enable: true
-    show_result: true
-    style: mac
+title: [The title of your site]
+description: [A short description of your site's purpose]
