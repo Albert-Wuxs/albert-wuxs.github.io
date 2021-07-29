@@ -1,6 +1,8 @@
 # 老师好我是吴同学
 ## 123这是一个尚未完成的GitHub博客......
 
+![1234](https://github.com/Albert-Wuxs/albert-wuxs.github.io/main/123.jpg)
+
 ```python
 print('Hello world')
 ```
