@@ -1,4 +1,4 @@
-theme: jekyll-theme-cayman
+theme: jekyll-theme-leap-day
 codeblock:
   copy_button:
     enable: true
