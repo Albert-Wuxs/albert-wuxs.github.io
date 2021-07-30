@@ -12,5 +12,3 @@
 [Python学习笔记](/python_learning/index)
 
 [CS231n学习笔记](/cs231n/index)
-
-[test](test/123.html)
