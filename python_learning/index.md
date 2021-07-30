@@ -4,4 +4,8 @@
 
 ## 目录
 
-[Python简介](/python_learning/tutorial/1_introduction.md)
+[Python基本语法](/python_learning/tutorial/1_grammar)
+
+## Codes
+
+[Python OJ 题解](/python_learning/codes/pythonOJ)
