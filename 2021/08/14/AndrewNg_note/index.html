@@ -219,7 +219,7 @@
             
               <p class="note note-info">
                 
-                  本文最后更新于：2021年8月14日 凌晨
+                  本文最后更新于：2021年8月15日 凌晨
                 
               </p>
             
@@ -235,7 +235,8 @@
 <li>It’s more important to understand <strong><em>how to use</em></strong> these tools instead of just knowing them.</li>
 </ul>
 <h3 id="监督学习"><a href="#监督学习" class="headerlink" title="监督学习"></a>监督学习</h3><ul>
-<li><ul>
+<li><p>555</p>
+<ul>
 <li>House price prediction (<strong>Regression Problem</strong>)<ul>
 <li>Predict continuous valued output (price)</li>
 </ul>
@@ -263,6 +264,28 @@
 <li>Astronomical Data Analysis</li>
 </ul>
 </li>
+</ul>
+<h2 id="线性回归"><a href="#线性回归" class="headerlink" title="线性回归"></a>线性回归</h2><h3 id="代价函数"><a href="#代价函数" class="headerlink" title="代价函数"></a>代价函数</h3><ul>
+<li><p>假设函数：$h_\theta(x)=\theta_0+\theta_1x$​</p>
+<ul>
+<li>$\theta_i$​​ 为模型参数</li>
+<li><p>$\theta<em>i$ 的选择：对于训练集中的 $(x,y)$ ，使 $|h</em>\theta(x)-y|$ 取最小值，即 $(h<em>\theta(x)-y)^2$ 取最小值，即 $\sum\limits</em>{i=1}^{m}(h_\theta(x_i)-y_i)^2$ 取最小值。</p>
+</li>
+<li><p>平均误差：$\frac{1}{2m}\sum\limits<em>{i=1}^{m}(h</em>\theta(x_i)-y_i)^2$</p>
+</li>
+</ul>
+</li>
+</ul>
+<blockquote>
+<p>之所以要除以 $2m$ 而不是除以 $m$ ，是因为在这里无论是除以 $2m$ 还是除以 $m$ 对代价函数 $J$ 最优化的结果都没有影响。当分母为 $2m$ 时，利用梯度下降法对 $J$ 求导，计算更为简便。</p>
+</blockquote>
+<ul>
+<li>代价函数：$J(\theta<em>0,\theta_1)=\frac{1}{2m}\sum\limits</em>{i=1}^{m}(h_\theta(x_i)-y_i)^2$<ul>
+<li>Also called <strong>Squared Error Function</strong></li>
+<li>Sometimes called <strong>Squared Error Cost Function</strong></li>
+</ul>
+</li>
+<li></li>
 </ul>
 
             </div>
